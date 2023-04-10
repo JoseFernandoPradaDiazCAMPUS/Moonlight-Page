@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Fontspring;
+    src: url(Demo_Fonts/Fontspring.otf);
+}
+
+.custom-navbar-toggler-icon {
+    background-image: url('img/navMenuIcon.png');
+  }
